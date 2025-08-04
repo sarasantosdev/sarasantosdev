@@ -21,5 +21,6 @@ No mais sejam bem-vindos(as) 👩‍💻🤓
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Estatísticas
+![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 _Readme editado em 03 de agosto de 2025_
