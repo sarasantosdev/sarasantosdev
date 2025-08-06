@@ -1,14 +1,9 @@
 ## Olá! Boas vindas ao meu github 🤓
 
-Desenvolvedora de Software 👩‍💻
+Sou desenvolvedora Front-end com conhecimento em HTML5, CSS3 e Javascript. Almejo ser desenvolvedora full-stack e arquiteta de software. Curto aprender também sobre desenvolvimento back-end em Java, C#, PHP e Python.
 
-Atualmente estou estudando HTML5, CSS3, Javascript e PHP. Almejo me tornar uma desenvolvedora Full Stack, portanto aprender sobre NodeJs, Typescript, React, Angular, MongoDB, entre outras tecnologias faz parte do meu plano de carreira. Também gosto da parte de arquitetura de software e infraestrutura por isso incluo nos meus estudos além das linguagens de programação: DevOps, Linux, Docker e Computação em Nuvem.
-
-Gosto bastante do desenvolvimento back-end tanto que é possível ver que em meu github predomina linguagens como: Python, Java e CSharp. Eu estou sempre iniciando estudos e cursos que me ajudem a chegar onde eu quero. Pareço iniciante mais estou no mundo da programação desde 2021 quando iniciei minha faculdade Análise e Desenvolvimento de Sistemas, mas acredito que até o mais sábido os homens sempre precisará rever seus conhecimentos, afinal tudo muda o tempo todo.
-
-Atualmente estou fazendo cursos na Alura, no Curso em Vídeo e canais do Youtube. Neste github você encontra todos os meus projetos, exercícios e aprendizado. Tento compartilhar com outras pessoas o que eu aprendi.
-
-No mais sejam bem-vindos(as) 👩‍💻🤓
+## Meu portfolio 👩‍💻
+https://sarasantosdev.github.io/portfolio-pessoal/
 
 ## Tecnologias
 
@@ -23,4 +18,4 @@ No mais sejam bem-vindos(as) 👩‍💻🤓
 ## Estatísticas
 ![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-_Readme editado em 03 de agosto de 2025_
+_Readme editado em 05 de agosto de 2025_
