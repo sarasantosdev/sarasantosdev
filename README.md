@@ -5,6 +5,11 @@ Sou desenvolvedora Front-end com conhecimento em HTML5, CSS3 e Javascript. Almej
 ## Meu portfolio 👩‍💻
 https://sarasantosdev.github.io/portfolio-pessoal/
 
+## Meu Gist  👩‍💻
+**Em meu gist você confere trechos de código de exercícios e estudos meus.**
+
+https://gist.github.com/sarasantosdev
+
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
