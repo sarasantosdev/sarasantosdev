@@ -23,4 +23,4 @@ https://gist.github.com/sarasantosdev
 ## Estatísticas
 ![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-_Readme editado em 05 de agosto de 2025_
+_Readme atualizado em 12 de agosto de 2025_
