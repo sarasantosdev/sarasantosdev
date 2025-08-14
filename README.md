@@ -10,6 +10,11 @@ https://sarasantosdev.github.io/portfolio-pessoal/
 
 https://gist.github.com/sarasantosdev
 
+## Meu Medium
+**Aqui eu compartilho o meu conhecimento de forma mais técnica e abrangente. Vale a pena conferir!**
+
+https://medium.com/@sarasantosdev
+
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,4 +28,4 @@ https://gist.github.com/sarasantosdev
 ## Estatísticas
 ![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-_Readme atualizado em 12 de agosto de 2025_
+_Readme atualizado em 13 de agosto de 2025_
