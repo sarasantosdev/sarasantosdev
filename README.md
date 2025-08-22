@@ -1,6 +1,6 @@
 ## Hi! Welcome to my github 🤓
 
-I'm a front-end developer with knowledge of HTML5, CSS3, and Javascript. My dreams are to become a full-stack developer and software architect. I also enjoy learning about back-end development in Java, C#, PHP, and Python.
+I'm a front-end developer with knowledge of HTML5, CSS3, and Javascript. My dreams are to become a full-stack developer and software architect. I also enjoy learning about back-end development in PHP and Python.
 
 ## My portfolio 👩‍💻
 https://sarasantosdev.github.io/portfolio-pessoal/
@@ -28,4 +28,4 @@ https://medium.com/@sarasantosdev
 ## Statistcs
 ![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-_Readme update August 13, 2025_
+_Readme update August 21, 2025_
