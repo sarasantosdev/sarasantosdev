@@ -11,7 +11,7 @@ I'm very curious and enjoy challenging my knowledge, so I created two simple Jav
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Statistcs
-![sarasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasantosdev&theme=radical&show_icons=true&hide_border=true&layout=compact)
+## Contact me
+
 
 _Readme update August 22, 2025_
