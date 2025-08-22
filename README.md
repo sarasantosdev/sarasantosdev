@@ -12,6 +12,7 @@ I'm very curious and enjoy challenging my knowledge, so I created two simple Jav
 
 
 ## Contact me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saramcsantos/)](https://www.linkedin.com/in/saramcsantos/)
 
 
 _Readme update August 22, 2025_
